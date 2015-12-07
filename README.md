@@ -1,2 +1,1 @@
-# blog
-mark
+# 个人的记录，暂且叫blog
