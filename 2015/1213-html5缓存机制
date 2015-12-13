@@ -1,4 +1,4 @@
-### h5缓存机制
+### html5缓存机制
 + 浏览器缓存机制
 + Dom Storgage（Web Storage）存储机制
   + localStorage: 浏览器环境。数据共享
