@@ -1,11 +1,11 @@
 ### h5缓存机制
-  + 浏览器缓存机制
-  + Dom Storgage（Web Storage）存储机制
-    + localStorage: 浏览器环境。数据共享
-    + sessionStorage：页面会话的环境
-  ＋ Application Cache（AppCache）
-    + manifest缓存
-  + indexDB
-    + web nosql数据库
-  + File System API  
-    + web 虚拟文件系统
++ 浏览器缓存机制
++ Dom Storgage（Web Storage）存储机制
+  + localStorage: 浏览器环境。数据共享
+  + sessionStorage：页面会话的环境
+＋ Application Cache（AppCache）
+  + manifest缓存
++ indexDB
+  + web nosql数据库
++ File System API  
+  + web 虚拟文件系统
