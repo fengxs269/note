@@ -12,3 +12,15 @@
     text-overflow: ellipsis;
     white-space: nowrap;
     
+    
+## 0.5px border
+    div{
+       border:1px solid black;
+    }
+    
+    @media (-webkit-min-device-pixel-ratio: 2){
+     div{
+        border-width:0.5px;
+     }
+    }
+    
