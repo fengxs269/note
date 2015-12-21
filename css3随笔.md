@@ -28,7 +28,6 @@
        .parent{
             display: -webkit-flex;
 	      	-webkit-flex-direction: row;
-	      	//-webkit-justify-content:space-between;
 	      	display: flex;
 	      	flex-direction: row;
 	    }
