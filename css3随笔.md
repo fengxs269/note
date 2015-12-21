@@ -23,4 +23,17 @@
         border-width:0.5px;
      }
     }
-    
+
+## 均分
+       .parent{
+            display: -webkit-flex;
+	      	-webkit-flex-direction: row;
+	      	//-webkit-justify-content:space-between;
+	      	display: flex;
+	      	flex-direction: row;
+	    }
+        
+        .children{
+            -webkit-flex: 1;
+      		flex: 1;
+        }
