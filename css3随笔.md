@@ -24,7 +24,7 @@
      }
     }
 
-## 均分
+## flex均分
        .parent{
             display: -webkit-flex;
 	      	-webkit-flex-direction: row;
