@@ -36,3 +36,5 @@
             -webkit-flex: 1;
       		flex: 1;
         }
+##  硬件加速 will-change:contents;
+        
