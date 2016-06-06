@@ -36,5 +36,11 @@
             -webkit-flex: 1;
       		flex: 1;
         }
+        
 ##  硬件加速 will-change:contents;
         
+## 无线的滚动
+    
+    overflow-x: scroll;
+    overflow-scrolling: touch;
+    -webkit-overflow-scrolling: touch;
