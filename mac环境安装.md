@@ -10,16 +10,16 @@
 3. 安装开发工具
    0. 安装sublime text或者atom,或者vscode
    0. 安装相应的插件 [sublime text插件](http://www.xuanfengge.com/practical-collection-of-sublime-plug-in.html)
-
 4. 初始开发
-   0. 跑起简单的hello world demo
-   0. psd或者sketch视觉稿
-   0. pc视觉稿还原
-   0. 手机html5视觉稿还原
-   0. 布局总结
-   0. 初步交互的开发
-   0. ajax总结，跨域总结
-   0. 工程构建工具了解，运用
-       0. sass
-       0. gulp构建
+  0. html5 ,css3属性阅读一遍
+  0. 跑起简单的hello world demo
+  0. psd或者sketch视觉稿
+  0. pc视觉稿还原
+  0. 手机html5视觉稿还原
+  0. 布局总结
+  0. 初步交互的开发
+  0. ajax总结，跨域总结
+  0. 工程构建工具了解，运用
+    0. sass
+    0. gulp构建
       
