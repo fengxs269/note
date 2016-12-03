@@ -4,9 +4,8 @@
    0. git安装教程(ps:命令行运行git，没有的时候mac会自动安装)
    0. [git教程](http://www.ruanyifeng.com/blog/2015/12/git-workflow.html) 
 2. 安装开发环境
-  0. 安装nodejs, 通过nvm安装
-  0. 了解nodejs,跑起简单的hello world demo
-  0. [了解http协议](http://www.ruanyifeng.com/blog/2016/08/http.html)
+   - 安装nodejs, 通过nvm安装,了解nodejs,跑起简单的hello world demo
+   - [了解http协议](http://www.ruanyifeng.com/blog/2016/08/http.html)
 3. 安装开发工具
    0. 安装sublime text或者atom,或者vscode
    0. 安装相应的插件 [sublime text插件](http://www.xuanfengge.com/practical-collection-of-sublime-plug-in.html)
