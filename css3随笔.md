@@ -36,7 +36,13 @@
             -webkit-flex: 1;
       		flex: 1;
         }
-        
+	
+	// flex子元素上下左右距中
+	.parent{
+	    justify-content: center;
+            align-items: center;
+	}
+        
 ##  硬件加速 will-change:contents;
         
 ## 无线的滚动
@@ -44,3 +50,9 @@
     overflow-x: scroll;
     overflow-scrolling: touch;
     -webkit-overflow-scrolling: touch;
+    
+## png透明 1px http://png-pixel.com/
+  data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=  
+  
+  
+  
